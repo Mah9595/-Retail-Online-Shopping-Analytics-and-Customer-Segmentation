@@ -1,4 +1,4 @@
-# -Retail-Online-Shopping-Analytics-and-Customer-Segmentation
+# Retail Online Shopping Analytics and Customer Segmentation
 
 Online buying and selling have become integral parts of many people’s lives. Virtual stores have made it exceedingly easy to buy and sell things. Heck, even this website is considered an online store!
 
